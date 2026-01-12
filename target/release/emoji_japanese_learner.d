@@ -1,0 +1,1 @@
+/home/elias/Dev/dict/target/release/emoji_japanese_learner: /home/elias/Dev/dict/src/emoji_renderer.rs /home/elias/Dev/dict/src/game_state.rs /home/elias/Dev/dict/src/input_validator.rs /home/elias/Dev/dict/src/main.rs /home/elias/Dev/dict/src/spaced_repetition.rs /home/elias/Dev/dict/src/word_data.rs
